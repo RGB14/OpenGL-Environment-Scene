@@ -21,6 +21,11 @@ The project was developed using the **OpenGL Fixed Function Pipeline** and **GLU
 * ID: 143400003
 
 ---
+### Screenshot
+<p align="center">
+  <img src="Screenshot/midnight-scene.jpg" alt="2D Midnight Environment Scene" width="800">
+</p>
+---
 
 ## Features
 
